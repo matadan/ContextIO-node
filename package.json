@@ -2,15 +2,14 @@
 	"name": "contextio",
 	"description": "Official Node.js client library for the Context.IO Email API",
 	"keywords": ["email","ContextIO","api","imap","gmail","tools","rest"],
-	"version": "0.3.0",
-	"author": "Bruno Morency <bruno@context.io>",
+	"version": "0.3.1",
+	"author": "Andrew Eades <andrew.eades@gmail.com>",
 	"repository": {
 		"type": "git",
-		"url": "http://github.com/ContextIO/ContextIO-node.git"
+		"url": "https://github.com/matadan/ContextIO-node.git"
 	},
 	"bugs": {
-		"url": "http://github.com/ContextIO/ContextIO-node/issues",
-		"email": "support@context.io"
+		"email": "andrew.eades@gmail.com"
 	},
 	"devDependencies": {
 		"vows": "0.6.x"
